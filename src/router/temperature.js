@@ -1,5 +1,5 @@
 import express from "express";
-import ControllerTemperature from '../controller/temperatura.js'
+import ControllerTemperature from '../controller/temperature.js'
 
 const router = express.Router()
 

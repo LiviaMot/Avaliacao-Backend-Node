@@ -1,5 +1,5 @@
 import express from "express"
-import router from './router/temperatura.js'
+import router from './router/temperature.js'
 
 const app = express();
 app.use(express.json())
