@@ -1,4 +1,4 @@
-import ServiceTemperature from '../service/temperatura.js'
+import ServiceTemperature from '../service/temperature.js'
 
 class ControllerTemperature {
   ConvertCelToFah(req, res) {
